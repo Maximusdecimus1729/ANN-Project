@@ -14,11 +14,6 @@ __pycache__/
 
 # TensorFlow/Keras logs
 logs/
-*.h5
-*.keras
-
-# Pickle files (encoders, scalers)
-*.pkl
 
 # Environment variables
 .env
